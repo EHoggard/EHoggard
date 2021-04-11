@@ -1,4 +1,4 @@
-### Hi I'm just learning how to do something new 
+### Hi I'm just learning how to do something new 😊
 
 <!--
 **EHoggard/EHoggard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
